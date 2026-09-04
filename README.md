@@ -8,9 +8,10 @@ A hands-on collection of React exercises and mini-projects created while learnin
 
 ## Projects
 
-| Project | Concepts |
-|---|---|
-| Counter | State, Events |
+| Project    | Concepts         |
+| ---------- | ---------------- |
+| pizza-menu | Jsx & Components |
+| Counter    | State, Events    |
 
 ## Goal
 
