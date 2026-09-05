@@ -2,9 +2,9 @@
 
 A small React menu page built as part of the React Learning Lab. It renders an Italian pizza menu from local data and demonstrates component composition, props, conditional rendering, and list rendering.
 
-## Live preview
+## Preview
 
-![Fast React Pizza Co. website preview](./public/live.png)
+![Fast React Pizza Co. website preview](./public/preview.png)
 
 ## Features
 
@@ -33,10 +33,10 @@ The app opens at [http://localhost:3000](http://localhost:3000).
 
 ## Available scripts
 
-| Command | Description |
-| --- | --- |
-| `npm start` | Runs the app in development mode. |
-| `npm test` | Starts the interactive test runner. |
+| Command         | Description                            |
+| --------------- | -------------------------------------- |
+| `npm start`     | Runs the app in development mode.      |
+| `npm test`      | Starts the interactive test runner.    |
 | `npm run build` | Creates an optimized production build. |
 
 ## Project structure
