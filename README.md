@@ -5,6 +5,7 @@ A hands-on collection of React exercises and mini-projects created while learnin
 ## Topics
 
 - JSX & Components
+- State & Events
 
 ## Projects
 
