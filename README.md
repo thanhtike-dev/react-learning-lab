@@ -11,7 +11,7 @@ A hands-on collection of React exercises and mini-projects created while learnin
 
 | Project    | Concepts         |
 | ---------- | ---------------- |
-| pizza-menu | Jsx & Components |
+| pizza-menu | JSX & Components |
 | Counter    | State, Events    |
 
 ## Goal
